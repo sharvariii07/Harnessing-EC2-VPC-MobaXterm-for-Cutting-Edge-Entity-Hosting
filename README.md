@@ -7,7 +7,7 @@ AWS Hosting Project - EC2 + VPC + MobaXterm
 Project Title
 Harnessing EC2, VPC & MobaXterm for Cutting-Edge Entity Hosting
 
-👉 Live Website URL: http://51.20.51.104/landing-page/#home
+👉 Live Website URL: http://13.50.190.140/landing-page/
 
 Project Description
 This project demonstrates hosting a static website on AWS EC2 instance using VPC networking and secure remote access through MobaXterm.
@@ -27,4 +27,4 @@ Linux Server (Amazon Linux)
 MobaXterm (SSH Client)
 HTML, CSS, JavaScript
 How to Access
-Open the browser and visit: http://51.20.51.104/landing-page/#home
+Open the browser and visit: http://13.50.190.140/landing-page/
